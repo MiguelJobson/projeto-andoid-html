@@ -50,13 +50,20 @@ a {
     padding-left: 4px;
     padding-right: 4px;
 }
+a {
+    background-color: #1a5c3860;
+    color:#4dbf80;
+    border-radius: 7px;
+    padding: 5px; 
+}
 a:hover {
     background-color: #1a5c3860;
     color:#3c7d59;
+    font-size: 20px;
     border-radius: 7px;
     padding: 5px;
 }
-h4 {
+#para {
     display: flex;
     justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
